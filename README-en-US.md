@@ -17,7 +17,7 @@ Clone the project
 Enter the project directory
 
 ```bash
-  cd site-moderno
+  cd modern-website
 ```
 
 Install the dependencies
