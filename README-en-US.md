@@ -11,7 +11,7 @@ develop websites.
 Clone the project
 
 ```bash
-  git clone git@github.com:Lucas-Christian/site-moderno.git
+  git clone git@github.com:Lucas-Christian/modern-website.git
 ```
 
 Enter the project directory
