@@ -12,7 +12,7 @@ desenvolver websites.
 Clone o projeto
 
 ```bash
-  git clone git@github.com:Lucas-Christian/site-moderno.git
+  git clone git@github.com:Lucas-Christian/modern-website.git
 ```
 
 Entre no diretório do projeto
