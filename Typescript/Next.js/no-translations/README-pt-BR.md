@@ -6,33 +6,6 @@ Tailwind CSS, foram unidos diversos exemplos, e foi
 feito da forma mais simples, e profissional, para 
 desenvolver websites.
 
-## Rodando localmente
-
-Clone o projeto
-
-```bash
-  git clone git@github.com:Lucas-Christian/modern-website.git
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd modern-website
-```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run dev
-```
-
-
 ## Autores
 
 - [Lucas Christian](https://github.com/Lucas-Christian)
