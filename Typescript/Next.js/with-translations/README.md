@@ -6,32 +6,6 @@ Tailwind CSS, several examples were joined, and it was
 made in the simplest and most professional way to
 develop websites.
 
-## Running locally
-
-Clone the project
-
-```bash
-  git clone git@github.com:Lucas-Christian/modern-website.git
-```
-
-Enter the project directory
-
-```bash
-  cd modern-website
-```
-
-Install the dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
-
 
 ## Authors
 
