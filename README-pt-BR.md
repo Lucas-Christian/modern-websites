@@ -1,47 +1,32 @@
-# Site moderno com traduções.
+# Construindo sites modernos.
 
-Este é um template de site moderno feito por 
-Lucas Christian, utilizando Next, React, Typscript, e
-Tailwind CSS, foram unidos diversos exemplos, e foi 
-feito da forma mais simples, e profissional, para 
-desenvolver websites.
+Este é um projeto feito por Lucas Christian, com o objetivo 
+de criar templates extremamente simples de sites modernos, e 
+da forma mais profissional possível, já com tudo pronto para 
+desenvolver, buildar, e colocar no ar o seu site!
 
+## Como posso colaborar?
 
-## Rodando localmente
+Sempre que pensar em uma forma ainda melhor de deixar tudo mais 
+simples, e ainda mais profissional qualquer um dos templates, pode 
+sempre fazer um pull request! Conto com a ajuda de todos para manter
+tudo sempre atualizado, vamos fazer com que todos possam sempre iniciar
+seus sites tendo uma boa base.
 
-Clone o projeto
+## Quer compartilhar o seu template?
 
-```bash
-  git clone git@github.com:Lucas-Christian/modern-website.git
-```
+Caso você queira compartilhar o seu template, em qualquer que seja a linguagem
+pode me mandar um e-mail com o seu discord, que eu irei te adicionar e lá
+você poderá me enviar e de preferência já com um README do seu template, mas
+caso você não tenha feito um README, você pode explicar como funciona e juntos
+podemos escrever um!
 
-Entre no diretório do projeto
+## Identificou um erro em algum dos templates?
 
-```bash
-  cd modern-website
-```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run dev
-```
-
+Caso tenha identificado algum erro, basta abrir uma issues, e caso já tenha
+resolvido esse erro, por favor faça um pull request, e entre como colaborador!
 
 ## Autores
 
 - [Lucas Christian](https://github.com/Lucas-Christian)
 - [LordLuch (Minha conta secundária)](https://www.github.com/LordLuch)
-
-## Referências
-
- - [Exemplo com tradução](https://github.com/vercel/next.js/tree/canary/examples/with-next-translate)
- - [Exemplo de construção moderna](https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress)
- - [Playlist que inspirou este template](https://www.youtube.com/playlist?list=PLMdYygf53DP7FJzPslLnmqp0QylyFfA8a)
-
