@@ -18,8 +18,8 @@ your sites having a good foundation.
 If you want to share your template, in any language
 you can send me an email with your discord, and I will add you there
 you can send me and preferably already with a README of your template, but
-in case you haven't done a README, can you explain how it works and together
-we can write one!
+in case you haven't done a README, can you explain how it works and 
+together we can write one!
 
 ## Identified an error in any of the templates?
 
