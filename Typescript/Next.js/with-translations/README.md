@@ -46,14 +46,14 @@ automatically detects the changes.
 All new pages must be placed here so that next automatically 
 detects the changes.
 
-#### __app.tsx
+#### _app.tsx
 
 next.js uses this component to initialize pages, you
 can overwrite, and control the launch of your site, by
 modify it, in it you can make loading animations for your
 page, some checks, and several other things.
 
-#### __document.tsx
+#### _document.tsx
 
 The next.js replaces the auto-generated document with the written
 here, this avoids a lot of bugs(A LOT of them).
