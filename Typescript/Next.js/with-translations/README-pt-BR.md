@@ -70,7 +70,7 @@ você faça a função About retornar, é espero que apareça na tela.
 
 ### public
 
-É espero que todas as imagens sejam colocadas aqui.
+É esperado que todas as imagens sejam colocadas aqui.
 
 ### Styles
 
