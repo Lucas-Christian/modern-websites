@@ -8,9 +8,9 @@ develop websites.
 
 ## About the Template
 
-- Propositalmente sem CSS;
-- Ambiente profissional utilizando Next.js;
-- Explicações sobre as pastas e arquivos logo abaixo.
+- Purposely without CSS;
+- Professional environment using Next.js;
+- Explanations of folders and files below.
 
 ### components
 
