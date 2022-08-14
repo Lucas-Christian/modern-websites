@@ -9,7 +9,7 @@ export default function Index({ preview }) {
     <Layout preview={preview}>
       <Head>
         <title>{website_title}</title>
-        <meta name="description" content="Era só um teste social" />
+        <meta name="description" content="Some description" />
       </Head>
       <section>
         <div>
