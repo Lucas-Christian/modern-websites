@@ -1,10 +1,20 @@
-# Site moderno com traduções.
+# Site moderno com traduções
 
 Este é um template de site moderno feito por 
 Lucas Christian, utilizando Next, React, Typscript, e
 Tailwind CSS, foram unidos diversos exemplos, e foi 
 feito da forma mais simples, e profissional, para 
 desenvolver websites.
+
+## Clone o template
+
+O clone irá puxar da minha conta secundária, para 
+não bagunçar a minha conta pública.
+```bash 
+git clone https://github.com/LordLuch/modern-website-using-nextjs-with-translations.git
+```
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Lucas-Christian/modern-websites/tree/main/typescript/next.js/with-translations&project-name=modern-website&repository-name=modern-website-using-nextjs-with-translations)
 
 ## Sobre o Template
 
