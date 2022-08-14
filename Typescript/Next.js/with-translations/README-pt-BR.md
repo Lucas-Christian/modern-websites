@@ -89,6 +89,10 @@ Todas as configurações das traduções devem ser feitas aqui.
 
 Todas as configurações do next.js devem ser feitas aqui.
 
+### postcss.config.js
+
+É necessário para que o tailwind CSS funcione.
+
 ### tailwind.config.js
 
 Todas as configurações do tailwind CSS devem ser feitas aqui.
