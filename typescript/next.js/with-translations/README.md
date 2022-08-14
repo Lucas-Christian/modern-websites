@@ -10,7 +10,7 @@ develop websites.
 
 The clone will pull from my secondary account, to
 don't mess up my public account.
-You can also view the [website preview](https://modern-website-using-nextjs-with-translations.vercel.app/)!
+- You can also view the [website preview](https://modern-website-using-nextjs-with-translations.vercel.app/)!
 ```bash 
 git clone https://github.com/LordLuch/modern-website-using-nextjs-with-translations.git
 ```
