@@ -6,6 +6,18 @@ Tailwind CSS, several examples were joined, and it was
 made in the simplest and most professional way to
 develop websites.
 
+## How to clone the template
+
+The clone will pull from my secondary account, to
+don't mess up my public account.
+You can also view the [website preview](https://modern-website-using-nextjs-with-translations.vercel.app/)!
+```bash 
+git clone https://github.com/LordLuch/modern-website-using-nextjs-with-translations.git
+```
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Lucas-Christian/modern-websites/tree/main/typescript/next.js/with-translations&project-name=modern-website&repository-name=modern-website-using-nextjs-with-translations)
+
+
 ## About the Template
 
 - Purposely without CSS;
