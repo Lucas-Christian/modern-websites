@@ -6,10 +6,11 @@ Tailwind CSS, foram unidos diversos exemplos, e foi
 feito da forma mais simples, e profissional, para 
 desenvolver websites.
 
-## Clone o template
+## Como clonar o template
 
 O clone irá puxar da minha conta secundária, para 
 não bagunçar a minha conta pública.
+Você pode também ver o (preview do website)[https://modern-website-using-nextjs-with-translations.vercel.app/]!
 ```bash 
 git clone https://github.com/LordLuch/modern-website-using-nextjs-with-translations.git
 ```
