@@ -6,6 +6,8 @@ Tailwind CSS, foram unidos diversos exemplos, e foi
 feito da forma mais simples, e profissional, para 
 desenvolver websites.
 
+## Sobre o template
+
 ## Autores
 
 - [Lucas Christian](https://github.com/Lucas-Christian)
