@@ -1,7 +1,7 @@
 # Modern website with translations.
 
 This is a modern website template made by
-Lucas Christian, using Next, React, Typscript, and
+Lucas Christian, using Next, React, Typescript, and
 Tailwind CSS, several examples were joined, and it was
 made in the simplest and most professional way to
 develop websites.
@@ -118,7 +118,7 @@ All typescript settings must be done here.
 - [Lucas Christian](https://github.com/Lucas-Christian)
 - [LordLuch (My secondary account)](https://www.github.com/LordLuch)
 
-## Referências
+## References
 
  - [Example with translation](https://github.com/vercel/next.js/tree/canary/examples/with-next-translate)
  - [Example of a professionally designed website](https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress)
